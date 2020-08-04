@@ -8,7 +8,7 @@ You might see a few projects coming soon that use it.
 
 #### Need to contact me?
 🐦 **Twitter** [@\_iGalaxyYT](https://twitter.com/_iGalaxyYT) \
-💬 **Discord** Coming Soon \
+💬 **Discord** @iGalaxy#2018 \
 🚀 **Website** [igalaxy.dev](https://igalaxy.dev) \
 📧 **Email** [contact@igalaxy.dev](mailto://contact@igalaxy.dev)
 
