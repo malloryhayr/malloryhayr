@@ -14,6 +14,13 @@ You might see a few projects coming soon that use it.
 
 #### Check out my stats!
 <!--START_SECTION:waka-->
+```text
+TypeScript   3 hrs 7 mins    █████████████████░░░░░░░░   69.87 % 
+HTML         53 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+```
 <!--END_SECTION:waka-->
 
 <!--
