@@ -5,8 +5,8 @@ Recently I picked up [**TypeScript**](https://www.typescriptlang.org), and I'm c
 You might see a few projects coming soon that use it.
 
 #### Projects I've worked on...
-- Front-end web development @Stacket
-- Stacket-API module @Stacket
+- Front-end web development [@Stacket](https://github.com/Stacket)
+- Stacket-API module [@Stacket](https://github.com/Stacket)
 
 #### Need to contact me?
 🐦 **Twitter** [@\_iGalaxyYT](https://twitter.com/_iGalaxyYT) \
