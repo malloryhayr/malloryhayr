@@ -17,11 +17,11 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-C#           9 mins          ████████░░░░░░░░░░░░░░░░░   33.05 % 
-TypeScript   7 mins          ██████░░░░░░░░░░░░░░░░░░░   26.69 % 
-JSON         6 mins          █████░░░░░░░░░░░░░░░░░░░░   22.87 % 
-Markdown     3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+TypeScript   58 mins         ██████████████████▓░░░░░░   75.06 % 
+JSON         15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
