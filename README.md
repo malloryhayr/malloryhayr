@@ -17,11 +17,11 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-Svelte       1 hr 3 mins     ██████████▒░░░░░░░░░░░░░░   40.73 % 
-JSON         39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
-HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-CSS          15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Svelte       52 mins         █████████████░░░░░░░░░░░░   52.10 % 
+CSS          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+HTML         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+JavaScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 <!--END_SECTION:waka-->
 
