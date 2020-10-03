@@ -17,11 +17,7 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-Svelte       52 mins         █████████████░░░░░░░░░░░░   52.10 % 
-CSS          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-HTML         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-JavaScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
