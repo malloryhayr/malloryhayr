@@ -17,7 +17,7 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-Other   2 hrs 35 mins   █████████████████████████   100.00 % 
+Other        27 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
