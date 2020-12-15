@@ -20,9 +20,9 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 34 mins   ████████████████████████░   95.90 % 
-Text         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript   6 hrs 17 mins   ████████████████████████░   96.54 % 
+Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
 
