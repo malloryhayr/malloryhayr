@@ -20,8 +20,7 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 24 mins    ████████████████████████▓   98.32 % 
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
