@@ -20,10 +20,10 @@ You might see a few projects coming soon that use it.
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 51 mins   ██████████████████▓░░░░░░   74.04 % 
-Other        43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Java         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TypeScript   4 hrs 55 mins   ██████████████████▒░░░░░░   73.95 % 
+Other        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Java         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 <!--END_SECTION:waka-->
 
