@@ -6,7 +6,7 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 
 #### Projects I've worked on...
 - TypeSkript-to-Skript transpiler (WIP) [@TypeSkript](https://github.com/TypeSkript)
-- Recipe lookup Discord bot for [Origin Realms](https://originrealms.com) (WIP) [@iGalaxyYT/OriginAlmanac](https://github.com/iGalaxyYT/OriginAlmanac) (Private)
+- Recipe lookup Discord bot for [Origin Realms](https://originrealms.com) (WIP) [iGalaxyYT/OriginAlmanac](https://github.com/iGalaxyYT/OriginAlmanac) (Private)
 - Front-end web development [@Stacket](https://github.com/Stacket)
 - Stacket-API module [@Stacket](https://github.com/Stacket)
 
