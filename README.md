@@ -1,10 +1,12 @@
 #### Hi there, welcome to my GitHub profile 👋
 I'm William, and I'm 15 years old. I'm a self-taught full-stack web developer.
 
-Recently I picked up [**TypeScript**](https://www.typescriptlang.org), and I'm completely obsessed with it. \
-You might see a few projects coming soon that use it.
+I strive to build cool things that I can show off to friends and family. \
+I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
 
 #### Projects I've worked on...
+- TypeSkript-to-Skript transpiler (WIP) [@TypeSkript](https://github.com/TypeSkript)
+- Origin Almanac (WIP) [Private]
 - Front-end web development [@Stacket](https://github.com/Stacket)
 - Stacket-API module [@Stacket](https://github.com/Stacket)
 
