@@ -22,8 +22,8 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-JavaScript   32 mins         ██████████████░░░░░░░░░░░   55.52 % 
-Other        22 mins         █████████▓░░░░░░░░░░░░░░░   39.16 % 
+JavaScript   32 mins         ██████████████░░░░░░░░░░░   55.47 % 
+Other        22 mins         █████████▓░░░░░░░░░░░░░░░   39.22 % 
 CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
