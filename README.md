@@ -22,10 +22,8 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-C#           5 hrs 1 min     ███████████████████▓░░░░░   78.04 % 
-TypeScript   1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+C#           11 hrs 41 mins  ████████████████████████▓   98.85 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
