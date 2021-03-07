@@ -22,8 +22,7 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-C#           11 hrs 41 mins  ████████████████████████▓   98.85 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+C#           11 hrs 41 mins  █████████████████████████   99.90 % 
 ```
 <!--END_SECTION:waka-->
 
