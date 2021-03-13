@@ -1,5 +1,5 @@
 #### Hi there, welcome to my GitHub profile 👋
-I'm William, and I'm a 15-years-old self-taught full-stack web developer.
+I'm William, and I'm a 16-year-old self-taught full-stack web developer.
 
 I strive to build cool things that I can show off to friends and family. \
 I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
