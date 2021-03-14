@@ -5,6 +5,7 @@ I strive to build cool things that I can show off to friends and family. \
 I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
 
 #### Projects I've worked on...
+- Minecraft plugin for running JS using Google's V8 engine [@NewkJS](https://github.com/newkjs)
 - Front-end web development [@Stacket](https://github.com/Stacket)
 - Stacket-API module [@Stacket](https://github.com/Stacket)
 
