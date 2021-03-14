@@ -5,7 +5,6 @@ I strive to build cool things that I can show off to friends and family. \
 I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
 
 #### Projects I've worked on...
-- Recipe lookup Discord bot for [Origin Realms](https://originrealms.com) (WIP) [iGalaxyYT/OriginAlmanac](https://github.com/iGalaxyYT/OriginAlmanac) (Private)
 - Front-end web development [@Stacket](https://github.com/Stacket)
 - Stacket-API module [@Stacket](https://github.com/Stacket)
 
