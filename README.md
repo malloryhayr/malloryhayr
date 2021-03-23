@@ -21,11 +21,11 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 32 mins   ██████████████████████░░░   87.34 % 
-JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript   7 hrs 14 mins   ██████████████████████░░░   87.68 % 
+JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
