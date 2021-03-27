@@ -15,9 +15,6 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 🚀 **Website** [igalaxy.dev](https://igalaxy.dev) \
 📧 **Email** [contact@igalaxy.dev](mailto://contact@igalaxy.dev)
 
-#### 🎄 Check out my Advent of Code solutions!
-🔗 [iGalaxyYT/aoc](https://github.com/iGalaxyYT/aoc)
-
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
