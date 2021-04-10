@@ -5,9 +5,9 @@ I strive to build cool things that I can show off to friends and family. \
 I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
 
 #### Projects I've worked on...
+- Fully customized Minecraft server experiences [@SatellyteMC](https://github.com/SatellyteMC)
 - Minecraft plugin for running JS using Google's V8 engine [@NewkJS](https://github.com/newkjs)
 - Front-end web development [@Stacket](https://github.com/Stacket)
-- Stacket-API module [@Stacket](https://github.com/Stacket)
 
 #### Need to contact me?
 🐦 **Twitter** [@\_iGalaxyYT](https://twitter.com/_iGalaxyYT) \
