@@ -18,11 +18,11 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-Java         5 hrs 28 mins   ███████████▓░░░░░░░░░░░░░   46.41 % 
-Other        3 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-JSON         1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-JavaScript   57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java         6 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.08 % 
+Other        3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+JSON         1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JavaScript   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Groovy       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
