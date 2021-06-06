@@ -16,9 +16,9 @@ I'm always looking to learn new things, but right now I'm obsessed with **[TypeS
 #### Check out my weekly stats!
 <!--START_SECTION:waka-->
 ```text
-Other        5 hrs 10 mins   ████████████████████████▓   98.51 % 
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other        4 hrs 20 mins   ██████████████████████░░░   88.62 % 
+C++          25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
 
