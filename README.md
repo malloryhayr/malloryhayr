@@ -19,7 +19,7 @@ I also spend time creating unique experiences for Minecraft: Java Edition.
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/_iGalaxyYT" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
-<a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a>
+<!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
 <!-- **Frontend** \
 <a href="#"><img alt="react" align="center" src="https://img.shields.io/badge/-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
