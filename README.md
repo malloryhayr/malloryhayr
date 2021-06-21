@@ -1,43 +1,32 @@
-<a href="https://igalaxy.dev">
-  <img src="https://lanyard-profile-readme.vercel.app/api/182292736790102017?bg=161B22" align="right" />
+<a href="https://discord.com/users/182292736790102017" target="_blank">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/182292736790102017?bg=161B22">
+</a>
+<a href="https://wakatime.com/@iGalaxy" target="_blank">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=10px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
 
-#### Hi there, welcome to my GitHub profile 👋
-I'm William, and I'm a 16-year-old self-taught full-stack web developer.
+### Hello, I'm William 👋
+I'm a 16-year-old aspiring full-stack web developer.
 
-I strive to build cool things that I can show off to friends and family. \
-I'm always looking to learn new things, but right now I'm obsessed with **[TypeScript](https://www.typescriptlang.org/)**.
+<a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://discord.com/users/182292736790102017" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/_iGalaxyYT" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a>
 
-#### Projects I'm working on...
-- Fully customized Minecraft server experiences [@SatellyteMC](https://github.com/SatellyteMC)
+**Frontend** \
+<a href="#"><img alt="react" align="center" src="https://img.shields.io/badge/-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
+<a href="#"><img alt="vercel" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a> \
+<a href="#"><img alt="vue" align="center" src="https://img.shields.io/badge/-Vue.js-42B983?style=flat-square&logo=vue.js&logoColor=white"></a>
 
-#### Need to contact me?
-🐦 **Twitter** [@\_iGalaxyYT](https://twitter.com/_iGalaxyYT) \
-💬 **Discord** @iGalaxy#2018 \
-🚀 **Website** [igalaxy.dev](https://igalaxy.dev) \
-📧 **Email** [contact@igalaxy.dev](mailto://contact@igalaxy.dev)
+**Backend** \
+<a href="#"><img alt="supabase" align="center" src="https://img.shields.io/badge/-Supabase-3ECE8E?style=flat-square&logo=supabase&logoColor=white"></a>
+<a href="#"><img alt="postgresql" align="center" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a> \
+<a href="#"><img alt="express" align="center" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"></a>
+<a href="#"><img alt="mongodb" align="center" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white"></a>
 
-#### Check out my weekly stats!
-<!--START_SECTION:waka-->
-```text
-Java         1 hr 46 mins    ██████████████▒░░░░░░░░░░   57.69 % 
-TypeScript   28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Groovy       16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JSON         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-XML          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-```
-<!--END_SECTION:waka-->
-<!--
-**iGalaxyYT/iGalaxyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Other Tech** \
+<a href="#"><img alt="typescript" align="center" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
+<a href="#"><img alt="javascript" align="center" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"></a> \
+<a href="#"><img alt="java" align="center" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white"></a>
+<a href="#"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="deno" align="center" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white"></a>
