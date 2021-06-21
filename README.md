@@ -1,3 +1,7 @@
+<a href="https://igalaxy.dev">
+  <img src="https://lanyard-profile-readme.vercel.app/api/182292736790102017" align="right" />
+</a>
+
 #### Hi there, welcome to my GitHub profile 👋
 I'm William, and I'm a 16-year-old self-taught full-stack web developer.
 
@@ -23,10 +27,6 @@ JSON         16 mins         ██▒░░░░░░░░░░░░░░
 XML          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 <!--END_SECTION:waka-->
-
-\
-\
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/182292736790102017)](https://igalaxy.dev)
 <!--
 **iGalaxyYT/iGalaxyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
