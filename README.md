@@ -8,12 +8,14 @@
 ### Hello, I'm William 👋
 I'm a 16-year-old aspiring full-stack web developer.
 
+I build software for the web with Next.js, Supabase + PostgreSQL, and TypeScript.
+
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://discord.com/users/182292736790102017" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/_iGalaxyYT" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a>
 
-**Frontend** \
+<!-- **Frontend** \
 <a href="#"><img alt="react" align="center" src="https://img.shields.io/badge/-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
 <a href="#"><img alt="vercel" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a> \
 <a href="#"><img alt="vue" align="center" src="https://img.shields.io/badge/-Vue.js-42B983?style=flat-square&logo=vue.js&logoColor=white"></a>
@@ -29,4 +31,4 @@ I'm a 16-year-old aspiring full-stack web developer.
 <a href="#"><img alt="javascript" align="center" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"></a> \
 <a href="#"><img alt="java" align="center" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white"></a>
 <a href="#"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="deno" align="center" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white"></a>
+<a href="#"><img alt="deno" align="center" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white"></a> -->
