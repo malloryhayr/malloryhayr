@@ -1,5 +1,5 @@
 <a href="https://igalaxy.dev">
-  <img src="https://lanyard-profile-readme.vercel.app/api/182292736790102017" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/182292736790102017?bg=161B22" align="right" />
 </a>
 
 #### Hi there, welcome to my GitHub profile 👋
