@@ -10,6 +10,8 @@ I'm a 16-year-old aspiring full-stack web developer.
 
 I build software for the web with Next.js, Supabase + PostgreSQL, and TypeScript.
 
+I also spend time creating unique experiences for Minecraft: Java Edition.
+
 **Current Projects** \
 <a href="https://github.com/NewkJS" target="_blank"><img alt="newkjs" align="center" width="20px" src="https://cdn.igalaxy.dev/newkrockettransparent.svg"> Newk</a> Secret stuff 👀 \
 <a href="https://github.com/SatellyteMC" target="_blank"><img alt="newkjs" align="center" width="20px" src="https://cdn.igalaxy.dev/satellytelogo.svg"> Satellyte</a> Creating next-generation experiences for Minecraft
