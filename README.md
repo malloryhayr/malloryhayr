@@ -24,6 +24,8 @@ XML          10 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+#### Here's what I'm doing right now!
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/182292736790102017)](https://igalaxy.dev)
 <!--
 **iGalaxyYT/iGalaxyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
