@@ -5,7 +5,7 @@
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=5px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
 <a href="https://hits.link" target="_blank">
-    <img width="50%" align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT" />
+    <img width="50%" align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
 </a>
 
 ### Hello, I'm William 👋
