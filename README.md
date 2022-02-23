@@ -9,7 +9,7 @@
 ### Hey, I'm William 👋
 I'm a 16-year-old aspiring software engineer & amateur game designer.
 
-I'm pursuing full-stack web development using modern technologies and I'm creating multiplayer experiences for Minecraft: Java Edition.
+I'm pursuing full-stack web development using modern technologies and I'm creating multiplayer experiences for Minecraft: Java Edition.[^1]
 
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
@@ -33,3 +33,5 @@ I'm pursuing full-stack web development using modern technologies and I'm creati
 <a href="#"><img alt="java" align="center" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white"></a>
 <a href="#"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="deno" align="center" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white"></a> -->
+
+[^1]: Not affiliated with or endorsed by Mojang Studios or Microsoft
