@@ -7,7 +7,7 @@
 <img width="50%" align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
 
 ### Hey, I'm William 👋
-I'm a 16-year-old aspiring software engineer & amateur game designer.
+I'm a 17-year-old aspiring software engineer & amateur game designer.
 
 I'm pursuing full-stack web development using modern technologies and I'm creating multiplayer experiences for Minecraft: Java Edition.
 
