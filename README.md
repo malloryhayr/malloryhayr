@@ -11,7 +11,7 @@ I'm a 17-year-old aspiring software engineer & amateur game designer.
 
 I'm pursuing full-stack web development using modern technologies and I'm creating multiplayer experiences for Minecraft: Java Edition.
 
-<a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/_iGalaxyYT" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
