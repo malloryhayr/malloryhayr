@@ -4,7 +4,9 @@
 <a href="https://wakatime.com/@iGalaxy" target="_blank">
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
-<img align="left" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
+<a href="https://git.io/streak-stats" target="_blank">
+    <img width="45%" align="left" alt="Commit Streak" src="https://github-readme-streak-stats.herokuapp.com?user=iGalaxyYT&theme=github-dark-blue&hide_border=true&ring=26A641&fire=39D353&sideNums=39D353&stroke=30363D">
+</a>
 
 ### Hey, I'm iGalaxy 👋
 I'm a 17-year-old aspiring software engineer & Minecraft enthusiast.
@@ -14,6 +16,9 @@ I'm pursuing full-stack web development using modern technologies and I'm creati
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/_iGalaxyYT" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://git.io/streak-stats" target="_blank">
+<img align="center" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
+</a>
 <!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
 <!-- **Frontend** \
