@@ -5,7 +5,7 @@
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
 <a href="https://git.io/streak-stats" target="_blank">
-    <img width="45%" align="left" alt="Commit Streak" src="https://github-readme-streak-stats.herokuapp.com?user=iGalaxyYT&theme=github-dark-blue&hide_border=true&ring=26A641&fire=39D353&sideNums=39D353&stroke=30363D&type=png">
+    <img width="45%" align="left" alt="Commit Streak" src="https://github-readme-streak-stats.herokuapp.com?user=iGalaxyYT&theme=github-dark-blue&hide_border=true&ring=26A641&fire=39D353&sideNums=39D353&stroke=30363D">
 </a>
 
 ### Hey, I'm iGalaxy 👋
