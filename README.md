@@ -12,7 +12,7 @@ I like to make things and pretend I know what I'm doing.
 
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
-<a href="https://mastodon.lol/@igalaxy" target="_blank"><img alt="mastodon" align="center" src="https://img.shields.io/badge/-Mastodon-0D1117?style=flat-square&logo=mastodon&logoColor=white"></a>
+<a href="https://tech.lgbt/@igalaxy" target="_blank"><img alt="mastodon" align="center" src="https://img.shields.io/badge/-Mastodon-0D1117?style=flat-square&logo=mastodon&logoColor=white"></a>
 <a href="https://hits-app.vercel.app/" target="_blank">
 <img align="center" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
 </a>
