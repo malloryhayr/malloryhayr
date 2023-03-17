@@ -6,7 +6,7 @@
 </a>
 
 ### Hey, I'm iGalaxy 👋
-I'm a 17-year-old aspiring software engineer, creator, & Minecraft enthusiast.
+I'm an 18-year-old aspiring software engineer, creator, & Minecraft enthusiast.
 
 I like to make things and pretend I know what I'm doing.
 
