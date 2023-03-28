@@ -6,9 +6,7 @@
 </a>
 
 ### Hey, I'm iGalaxy 👋
-I'm an 18-year-old aspiring software engineer, creator, & Minecraft enthusiast.
-
-I like to make things and pretend I know what I'm doing.
+I make things, sometimes. Usually with Minecraft.
 
 <a href="https://igalaxy.dev" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://link.igalaxy.dev/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
