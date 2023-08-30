@@ -5,8 +5,8 @@
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&layout=compact&langs_count=4">
 </a> -->
 
-### Hey, I'm iGalaxy 👋
-I'm an 18-year-old software engineer, game designer, & self-proclaimed Minecraft enthusiast.
+### Hey, I'm Mallory 👋
+I'm an 18-year-old student, software engineer, game designer, and Minecraft enthusiast.
 
 I make things, sometimes.
 
