@@ -9,10 +9,6 @@
 I'm an 18-year-old student, software engineer, game designer, and Minecraft enthusiast.
 
 I make things, sometimes.
-
-<a href="https://hits-app.vercel.app/" target="_blank">
-<img align="center" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2FiGalaxyYT&bgLeft=161B22&bgRight=161B22" />
-</a>
 <!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
 <!-- **Frontend** \
