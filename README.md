@@ -6,7 +6,7 @@
 </a> -->
 
 ### Hey, I'm Mallory 👋
-I'm an 18-year-old student, computer scientist, game designer, and Minecraft enthusiast.
+I'm an 18-year-old computer science, game design, and Minecraft enthusiast.
 
 I make things, sometimes :)
 <!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
