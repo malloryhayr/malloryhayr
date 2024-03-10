@@ -1,14 +1,16 @@
-<a href="https://discord.com/users/182292736790102017" target="_blank">
+i make computers do things sometimes
+
+<!-- <a href="https://discord.com/users/182292736790102017" target="_blank">
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/182292736790102017?bg=161B22&borderRadius=5px%205px%200%200&hideDiscrim=true&idleMessage=idling...">
-</a>
+</a> -->
 <!-- <a href="https://wakatime.com/@iGalaxy" target="_blank">
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iGalaxy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&layout=compact&langs_count=4">
 </a> -->
 
-### Hey, I'm Mallory 👋
+<!-- ### Hi, I'm Mallory 👋
 I'm an 18-year-old computer science, game design, and Minecraft enthusiast.
 
-I make things, sometimes :)
+I make things, sometimes :) -->
 <!-- <a href="mailto://contact@igalaxy.dev"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
 <!-- **Frontend** \
